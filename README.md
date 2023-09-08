@@ -1,2 +1,2 @@
-# Blog-Post
- Content Management System - PHP(REFRESHER)
+# Blog-Post WITH REST API
+ Content Management System - INTEGRATING A RESTFUL API VANILLA PHP
